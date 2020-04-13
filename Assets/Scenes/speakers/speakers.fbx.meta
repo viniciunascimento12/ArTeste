@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 5c22b6da8d38d644f8d9a806b0edf2f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.007
+    100016: Bone.008
+    100018: Bone.009
+    100020: Bone.010
+    100022: Bone.011
+    100024: Bone.012
+    100026: Bone.013
+    100028: Bone.014
+    100030: OBJ_speaker_L
+    100032: RIG_Speakers
+    100034: //RootNode
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.007
+    400016: Bone.008
+    400018: Bone.009
+    400020: Bone.010
+    400022: Bone.011
+    400024: Bone.012
+    400026: Bone.013
+    400028: Bone.014
+    400030: OBJ_speaker_L
+    400032: RIG_Speakers
+    400034: //RootNode
+    2100000: MAT_speaker
+    2100002: MAT_adevisoSpeaker
+    4300000: OBJ_speaker_L
+    7400000: RIG_Speakers|ACT_adesivoCaboTouchpad_base_01
+    7400002: RIG_Speakers|ACT_adesivoCaboTouchpad_base_02
+    7400004: RIG_Speakers|ACT_adesivoCaboTouchpad_movendo
+    7400006: RIG_Speakers|ACT_caboPlacaPower_baseAberto
+    7400008: RIG_Speakers|ACT_caboPlacaPower_baseFechado
+    7400010: RIG_Speakers|ACT_caboPlacaPower_conectando
+    7400012: RIG_Speakers|ACT_DCIN_cabo_conectando_MB
+    7400014: RIG_Speakers|ACT_DCIN_cabo_conectando_palmrest
+    7400016: RIG_Speakers|ACT_DCIN_cabo_fixado_MB
+    7400018: RIG_Speakers|ACT_DCIN_cabo_fixado_palmrest
+    7400020: RIG_Speakers|ACT_fan_base
+    7400022: RIG_Speakers|ACT_fan_encaixe
+    7400024: RIG_Speakers|ACT_fan_fio_encaixe
+    7400026: RIG_Speakers|ACT_heat_base
+    7400028: RIG_Speakers|ACT_heat_baseCima
+    7400030: RIG_Speakers|ACT_heat_encaixe
+    7400032: RIG_Speakers|ACT_hinges_aberto
+    7400034: RIG_Speakers|ACT_hinges_abrindo
+    7400036: RIG_Speakers|ACT_hinges_direitoFechando
+    7400038: RIG_Speakers|ACT_hinges_fechado
+    7400040: RIG_Speakers|ACT_IO_base
+    7400042: RIG_Speakers|ACT_IO_conectaCabo
+    7400044: RIG_Speakers|ACT_IO_Desconectado
+    7400046: RIG_Speakers|ACT_IO_MB_trava_Abrindo
+    7400048: RIG_Speakers|ACT_IO_trava_abrindo
+    7400050: RIG_Speakers|ACT_IO_trava_base
+    7400052: RIG_Speakers|ACT_IOCable_conectando_IO
+    7400054: RIG_Speakers|ACT_IOCable_base
+    7400056: RIG_Speakers|ACT_IOCable_conectando_MB
+    7400058: RIG_Speakers|ACT_LCD
+    7400060: RIG_Speakers|ACT_LED_encaixe
+    7400062: RIG_Speakers|ACT_LED_base
+    7400064: RIG_Speakers|ACT_linerLVDS_colado
+    7400066: RIG_Speakers|ACT_linerLVDS_removendo
+    7400068: RIG_Speakers|ACT_linerLVDS_removido
+    7400070: RIG_Speakers|ACT_MB_Base
+    7400072: RIG_Speakers|ACT_MB_HeatsinkEncaixe
+    7400074: RIG_Speakers|ACT_MB_Instalacao
+    7400076: RIG_Speakers|ACT_MB_TP_Connecor_Base
+    7400078: RIG_Speakers|ACT_MB_TP_Connecor_Conectando
+    7400080: RIG_Speakers|ACT_MB_TP_Connector_base
+    7400082: RIG_Speakers|ACT_MB_TP_Connector_MBAjeitar
+    7400084: RIG_Speakers|ACT_MB_TP_Connector_MBConectar
+    7400086: RIG_Speakers|ACT_palmRest_base
+    7400088: RIG_Speakers|ACT_palmRest_encaixeLCD
+    7400090: RIG_Speakers|ACT_palmRest_encaixeLCD_base
+    7400092: RIG_Speakers|ACT_parafusadeira_ALL
+    7400094: RIG_Speakers|ACT_parafusadeira_DCIN
+    7400096: RIG_Speakers|ACT_parafusadeira_FAN
+    7400098: RIG_Speakers|ACT_parafusadeira_heat
+    7400100: RIG_Speakers|ACT_parafusadeira_IO
+    7400102: RIG_Speakers|ACT_parafusadeira_MB
+    7400104: RIG_Speakers|ACT_PlacaPower_Abrindo
+    7400106: RIG_Speakers|ACT_speakers_adesivo_02
+    7400108: RIG_Speakers|ACT_speakers_Adesivos
+    7400110: RIG_Speakers|ACT_speakers_base
+    7400112: RIG_Speakers|ACT_speakers_instalando.001
+    7400114: RIG_Speakers|ACT_touchpadConnector_Abrindo
+    7400116: RIG_Speakers|ACT_touchpadConnector_Base
+    7400118: RIG_Speakers|ACT_speakers_instalando
+    7400120: RIG_Speakers|ACT_TravaRAM_Base
+    7400122: RIG_Speakers|ACT_TravaRAM_Destravando
+    7400124: RIG_Speakers|ACT_WLAN_base
+    7400126: RIG_Speakers|ACT_WLAN_encaixe
+    9500000: //RootNode
+    13700000: OBJ_speaker_L
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
