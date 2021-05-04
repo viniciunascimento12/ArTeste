@@ -1,9 +1,8 @@
 Android
 PlayerPath?
-C:/Users/Vinicius/Documents/ArTeste/Exec/testeAr.apk
+C:/Users/Vinicius/Documents/ArTeste/Exec/TesteAR3D.apk
 SceneListBegin?
-Assets/Scenes/inicio.unity
-Assets/Scenes/Cubos_.unity
+Assets/Scenes/Simulacao_ambienteAR3D.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 450e924e805071680be36052cdbb2e5f Assembly-CSharp.dll:easyar.ARSession
@@ -187,7 +186,10 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
+07618ebd218e092b8187ccf1fdc0ecba Assembly-CSharp.dll:.Rotacao
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Cenas
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.voltar
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
 9be0b4b88a6d896de51f4cc536c96063 Assembly-CSharp.dll:easyar.ImageTrackerBehaviour
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -302,6 +304,3 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-07618ebd218e092b8187ccf1fdc0ecba Assembly-CSharp.dll:.Rotacao
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Cenas
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.voltar
